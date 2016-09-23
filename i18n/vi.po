@@ -6880,6 +6880,11 @@ msgid "Congo"
 msgstr "Công-gô"
 
 #. module: base
+#: model:res.country,name:base.vn
+msgid "Vietnam"
+msgstr "Việt Nam"
+
+#. module: base
 #: model:res.country,name:base.cd
 msgid "Congo, Democratic Republic of the"
 msgstr "Congo, Democratic Republic of the"
